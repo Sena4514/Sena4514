@@ -4,7 +4,11 @@
 <h3 align="left">Connect with me:</h3>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-ko%C3%A7ak-303502191/)
-[![Mail Badge](https://img.shields.io/badge/senakocak4514@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:senakocak4514@gmail.com)](mailto:senakocak4514@gmail.com)
+[
+![Mail Badge](https://img.shields.io/badge/senakocak4514@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:senakocak4514@gmail.com)](mailto:senakocak4514@gmail.com)
+[
+![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+](https://www.kaggle.com/senakoak)
 [
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://www.youtube.com/channel/UCFEIkiuAXAQMr2HRTi6ZWRQ)
@@ -24,7 +28,6 @@
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)

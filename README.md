@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-ko%C3%A7ak-303502191/)
-[![Mail Badge](https://img.shields.io/badge/senakocak4514@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1.fatihes@gmail.com)](mailto:senakocak4514@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/senakocak4514@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:senakocak4514@gmail.com)](mailto:senakocak4514@gmail.com)
 [
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://www.youtube.com/channel/UCFEIkiuAXAQMr2HRTi6ZWRQ)

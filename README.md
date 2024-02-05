@@ -3,10 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-ko%C3%A7ak-303502191/)
-[
+![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+
 ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-]
+
 
 <h3 align="left">Languages and Tools:</h3>
 
